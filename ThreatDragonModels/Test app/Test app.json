@@ -4,8 +4,18 @@
     "owner": "Alex G"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "Alex"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Diagram test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Xela G"
   }
 }
